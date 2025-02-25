@@ -1,7 +1,12 @@
-## Hey! Bem-Vindo ao meu perfil 😁 
-![Deckster-Lorenzo GitHub stats](https://github-readme-stats.vercel.app/api?username=Deckster-Lorenzo&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deckster-Lorenzo&layout=compact&langs_count=168&theme=dark"/)
 
+
+## Hey! Bem-Vindo ao meu perfil 😁 
+<div>
+  <a href="https://github.com/Deckster-Lorenzo".
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deckster-Lorenzo&show_icons=true&theme=dark&include_all_commits=true&count>
+  <img height='180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deckster-Lorenzo&layout=compact&langs_count=168&theme=dark"/>
+
+</div>
 Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
@@ -16,3 +21,5 @@ Tecnologias que eu uso no meu dia a dia
 
   
 </div>
+
+
