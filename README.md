@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Deckster Lorenzo
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Back-End`**
 
 
 ### 🤖 Linguagens e Tecnologias.
