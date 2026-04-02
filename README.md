@@ -13,15 +13,22 @@
 
 ### 📊 Estatísticas
 
-<div align="center">
-
-| Linguagem | Uso | Repositórios |
-|-----------|-----|--------------|
-| **C#** | <div style="width: 100%; height: 30px; background: linear-gradient(90deg, #00599C 0%, #00599C 100%); border-radius: 5px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">42%</div> | 5 |
-| **Java** | <div style="width: 100%; height: 30px; background: linear-gradient(90deg, #FF9800 0%, #FF9800 100%); border-radius: 5px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">25%</div> | 3 |
-| **C** | <div style="width: 100%; height: 30px; background: linear-gradient(90deg, #90EE90 0%, #90EE90 100%); border-radius: 5px; display: flex; align-items: center; justify-content: center; color: black; font-weight: bold;">17%</div> | 2 |
-
-</div>
+<svg width="400" height="150" xmlns="http://www.w3.org/2000/svg">
+  <!-- C# -->
+  <text x="10" y="25" font-size="14" font-weight="bold">C#</text>
+  <rect x="60" y="15" width="320" height="25" fill="#003DA5" rx="5"/>
+  <text x="390" y="32" font-size="12" font-weight="bold">42%</text>
+  
+  <!-- Java -->
+  <text x="10" y="80" font-size="14" font-weight="bold">Java</text>
+  <rect x="60" y="70" width="200" height="25" fill="#FF9800" rx="5"/>
+  <text x="270" y="87" font-size="12" font-weight="bold">25%</text>
+  
+  <!-- C -->
+  <text x="10" y="135" font-size="14" font-weight="bold">C</text>
+  <rect x="60" y="125" width="136" height="25" fill="#90EE90" rx="5"/>
+  <text x="205" y="142" font-size="12" font-weight="bold">17%</text>
+</svg>
 
 ### 📊 Estatísticas
 
