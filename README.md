@@ -13,14 +13,3 @@
 
 ### 📊 Estatísticas
 
-![Deckster-Lorenzo GitHub stats](https://github-readme-stats.vercel.app/api?username=Deckster-Lorenzo&show_icons=true&theme=dark)
-<p>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deckster-Lorenzo&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
- 
-</p>
