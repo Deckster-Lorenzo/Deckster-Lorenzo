@@ -29,14 +29,14 @@ Gráfico de Barras Interativo
 
 </div>
 
+### 📊 Estatísticas
 
----
+<div align="center">
 
-## 📫 Conecte-se Comigo
+| Linguagem | Uso | Repositórios |
+|-----------|-----|--------------|
+| **C#** | 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 | 42% (5) |
+| **Java** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 25% (3) |
+| **C** | 🟩🟩🟩🟩🟩 | 17% (2) |
 
-[![GitHub](https://img.shields.io/badge/GitHub-Deckster--Lorenzo-black?style=flat-square&logo=github)](https://github.com/Deckster-Lorenzo)
-[![Email](https://img.shields.io/badge/Email-Decksterlorenzo48%40gmail.com-red?style=flat-square&logo=gmail)](mailto:Decksterlorenzo48@gmail.com)
-
----
-
-**⭐ Obrigado por visitar meu perfil! Sinta-se livre para explorar meus repositórios!**
+</div>
