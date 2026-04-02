@@ -13,19 +13,13 @@
 
 ### 📊 Estatísticas
 
-# 👋 Bem-vindo ao Meu Perfil!
-
-
-
-Gráfico de Barras Interativo
-
 <div align="center">
 
 | Linguagem | Uso | Repositórios |
 |-----------|-----|--------------|
-| **C#** | ████████████████████████████████████████░░ | 42% (5) |
-| **Java** | ██████████████████████░░░░░░░░░░░░░░░░░░░░ | 25% (3) |
-| **C** | ████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ | 17% (2) |
+| **C#** | <div style="width: 100%; height: 30px; background: linear-gradient(90deg, #00599C 0%, #00599C 100%); border-radius: 5px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">42%</div> | 5 |
+| **Java** | <div style="width: 100%; height: 30px; background: linear-gradient(90deg, #FF9800 0%, #FF9800 100%); border-radius: 5px; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">25%</div> | 3 |
+| **C** | <div style="width: 100%; height: 30px; background: linear-gradient(90deg, #90EE90 0%, #90EE90 100%); border-radius: 5px; display: flex; align-items: center; justify-content: center; color: black; font-weight: bold;">17%</div> | 2 |
 
 </div>
 
