@@ -13,3 +13,14 @@
 
 ### 📊 Estatísticas
 
+# Programming Language Statistics
+
+This project showcases programming language usage statistics in a visual format. Below is a bar chart representation of the languages used in the project.
+
+## Language Statistics
+
+```plaintext
+C      | ██████████████████ 17%
+C#     | ██���█████████████████████████████████████ 42%
+Java   | ██████████████████████████ 25%
+
