@@ -15,9 +15,9 @@
 
 # 👋 Bem-vindo ao Meu Perfil!
 
-## �� Estatísticas de Linguagens de Programação
 
-### Gráfico de Barras Interativo
+
+Gráfico de Barras Interativo
 
 <div align="center">
 
@@ -29,30 +29,6 @@
 
 </div>
 
----
-
-## 🎯 Minhas Habilidades Principais
-
-- **C#** - Desenvolvimento .NET, MAUI, Aplicações Web
-- **Java** - Sistemas, Orientação a Objetos, Associações
-- **C** - Desafios, Projetos de Cadastro, Programação Estruturada
-
----
-
-## 🚀 Principais Projetos
-
-### 🏆 C#
-- [APP_.NET-MAUI_WEB-API](https://github.com/Deckster-Lorenzo/APP_.NET-MAUI_WEB-API) - App para criadores de conteúdo
-- [Jogo-de-corrida-com-dados](https://github.com/Deckster-Lorenzo/Jogo-de-corrida-com-dados)
-- [Sistema-de-Reservas-de-Equipamentos](https://github.com/Deckster-Lorenzo/Sistema-de-Reservas-de-Equipamentos)
-
-### ☕ Java
-- [Sistema-de-Funcionarios](https://github.com/Deckster-Lorenzo/Sistema-de-Funcionarios)
-- [Associacoes-Unidirecional-Bidirecional-Java](https://github.com/Deckster-Lorenzo/Associacoes-Unidirecional-Bidirecional-Java)
-
-### 🔧 C
-- [Projeto-de-Cadastro-em-Linguagem-C](https://github.com/Deckster-Lorenzo/Projeto-de-Cadastro-em-Linguagem-C)
-- [Desafios-em-Linguagem-C](https://github.com/Deckster-Lorenzo/Desafios-em-Linguagem-C)
 
 ---
 
