@@ -22,4 +22,6 @@
 | **Java** | 🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧🟧 | 25% (3) |
 | **C** | 🟩🟩🟩🟩🟩 | 17% (2) |
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Deckster-Lorenzo&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
