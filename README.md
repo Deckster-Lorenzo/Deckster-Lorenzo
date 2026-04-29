@@ -17,7 +17,7 @@
 <div align="center">
 
  [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Deckster-Lorenzo&custom_title=Linguagens_mais_usadas&theme=dark&layout=compact&align=right&width=40%)](https://github.com/anuraghazra/github-readme-stats)
- ![Stats](https://github-readme-stats.vercel.app/api?username=Deckster-Lorenzo&rank_icon=github)
+![Stats](https://github-readme-stats.vercel.app/api?username=Deckster-Lorenzo&theme=dark&hide=prs,issues,contribs&show_icons=true)
 
 
 </div>
